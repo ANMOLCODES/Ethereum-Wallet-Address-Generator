@@ -16,7 +16,8 @@
     "@safe-global/safe-ethers-lib": "^1.9.2",
     "@safe-global/safe-service-client": "^1.5.2",
     "dotenv": "^16.0.3",
-    "ethers": "5.7.2"
+    "ethers": "5.7.2",
+    "fs": "^0.0.1-security"
   },
   "devDependencies": {
     "@types/node": "^18.15.0",
